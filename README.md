@@ -47,8 +47,15 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+
+![e63](https://github.com/varshinidevaraju/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870750/8291d124-e2d1-46d3-91dd-500a026289c2)
+
+![e62](https://github.com/varshinidevaraju/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870750/f8f235b8-d759-412f-9d70-7549e542fef4)
+
+![e61](https://github.com/varshinidevaraju/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870750/48668f73-b345-4201-9af0-5acea9d57900)
+
+### Name:D.Varshini
+### Register Number:212223230234
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
